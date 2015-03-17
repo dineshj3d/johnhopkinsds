@@ -1,0 +1,27 @@
+Find your working directory
+
+GETWD()
+
+
+
+What R?
+
+dialect of S
+
+what S John Chambers
+
+green book 
+
+
+Some R Resources
+
+Intro to R
+
+Writing R Extensions
+
+R Data Import/Export
+
+R Install & Admin
+
+cran.r-project.org
+
